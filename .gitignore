@@ -1,0 +1,14 @@
+/venv/
+/.ipynb_checkpoints/
+/sign_data/
+verify-frontend/node_modules
+/.idea
+/.DS_Store
+/model.pt
+siamese.png
+best_model.pth
+best_model.pt
+sign_data2/.DS_Store
+sign_data2/test/.DS_Store
+signatures/.DS_Store
+best_model_21.pt
